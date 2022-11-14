@@ -1,0 +1,15 @@
+.imageProperties {
+    width: '220px' !important; 
+    height: '220px' !important;
+    border: '2px solid gray' !important
+}
+
+.barcodScannerOptionBtn{
+    width: 70%;
+    height: 150px;
+    border-radius: 10px;
+    font-size: 28px !important;
+    -moz-box-shadow: 10px 10px 16px #ffffff;
+    -webkit-box-shadow: 10px 10px 16px #000000;
+    box-shadow: 10px 10px 16px #000000;
+}

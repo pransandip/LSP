@@ -1,0 +1,14 @@
+[
+    {
+        "field1": "",
+        "field2": "1",
+        "process_name": "Registration process",
+        "process_page": "/Home"
+    },
+    {
+        "field1": "",
+        "field2": "2",
+        "process_name": "Second Weighing",
+        "process_page": "/SecondProcess"
+    }
+]
